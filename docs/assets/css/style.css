@@ -1,0 +1,35 @@
+/* Global */
+
+.fa-external-link {
+  font-size: 9px;
+  margin-left: 2px;
+}
+
+body {
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 1em;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  /* max-width: 52em; */
+}
+
+footer {
+  margin-top: 2em;
+}
+
+p {
+  line-height: 1.5;
+}
+
+ol.bib {
+  list-style-type: upper-roman;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  font-weight: bold;
+}
